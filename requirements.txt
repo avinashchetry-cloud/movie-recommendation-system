@@ -1,0 +1,11 @@
+flask
+pandas
+scikit-learn
+requests
+
+
+API LINK: https://api.themoviedb.org/3/movie/popular?api_key={your api key}
+headers - { "Content-Type": "application/json" }
+api end point url - http://127.0.0.1:5000/recommend
+method- Post
+streamlit path bypass: python -m streamlit run backend/frontend.py
