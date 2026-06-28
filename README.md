@@ -40,5 +40,3 @@ To improve user experience, RapidFuzz is used for fuzzy matching of user input, 
 - Streamlit / Flask  
 
 ---
-
-## Project Structure
